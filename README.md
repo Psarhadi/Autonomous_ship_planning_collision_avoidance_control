@@ -2,7 +2,7 @@
 
 > **Integrated Risk Assessment and Collision Avoidance a Maritime Autonomous Surface Ship MASS implementation in Python**
 >
->[Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi), [Wasif Naeem](https://pure.qub.ac.uk/en/persons/wasif-naeem), [Klinsman Agyei][(https://uk.linkedin.com/in/janhuenermann](https://ise-uh.github.io/))
+>[Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi), [Wasif Naeem](https://pure.qub.ac.uk/en/persons/wasif-naeem), [Klinsman Agyei](https://ise-uh.github.io/).
 >
 
 
