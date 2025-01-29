@@ -49,6 +49,8 @@ This is a simple implementation and needs the following:
 - Matplotlib
 - Time
 
+Then just run "Run_ship_simulation.py"!
+
 
 ### 🏄 More examples
 
