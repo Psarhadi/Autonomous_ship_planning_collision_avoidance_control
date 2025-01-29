@@ -42,7 +42,7 @@ An LLM-based decision-making algorithm is also proposed and integrated into this
 ```
 
 ### Prerequisites
-This is a simple implementation and basic tolls are used.
+This is a simple implementation and needs the following:
 - An IDE to run Python, VScose is suggested;
 - Python 3.x
 - Numpy
