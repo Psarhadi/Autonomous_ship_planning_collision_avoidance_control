@@ -37,7 +37,7 @@ An LLM-based decision-making algorithm is also proposed and integrated into this
   title={Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles},
   author={Agyei, Klinsmann and Sarhadi, Pouria and Naeem, Wasif},
   journal={arXiv preprint arXiv:2411.16587},
-  year={2024}
+  year={2025}
 }
 ```
 
