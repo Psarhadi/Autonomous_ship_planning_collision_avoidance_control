@@ -1,7 +1,6 @@
-![scenario_animation](https://github.com/user-attachments/assets/db2aea61-0ac4-4794-ac0a-68249c334e21)
-
 # Integrated_Risk_Assessment_and_Collision_Avoidance_a_Maritime_Autonomous_Surface_Ship_MASS
 
+<img src="https://github.com/user-attachments/assets/db2aea61-0ac4-4794-ac0a-68249c334e21" width="50%">
 
 
 
